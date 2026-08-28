@@ -1,0 +1,1 @@
+VANTA public assets live here. Add logo and optimized product/game images here.
